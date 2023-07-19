@@ -134,7 +134,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
+You can give star to my project on github [here](https://github.com/gergitokusse/PostgerDB) if you like the project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -153,6 +153,6 @@ I would like to thank microverse studnet success for they suport me during any m
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/gergitokusse/react-capston-project/blob/development/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
